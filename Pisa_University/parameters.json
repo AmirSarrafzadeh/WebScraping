@@ -1,0 +1,7 @@
+{
+    "main_page_url": "https://esami.unipi.it/programmi_insegnamenti.php?",
+    "csv_file": "pisa_university_courses.csv",
+    "department": "dipselect",
+    "course": "cdsSelect",
+    "columns": ["Department", "Course", "Codice", "Lingua", "CFU", "Periodo", "Anno Accademico"]
+}
