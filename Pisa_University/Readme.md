@@ -35,7 +35,7 @@ To use the University of Pisa Course Scraper, follow these steps:
 1. Make sure you have Python installed on your system.
 2. Install the required dependencies listed in the [Dependencies](#dependencies) section.
 3. Modify the `parameters.json` file to customize the scraping parameters if necessary.
-4. Run the script by executing the command `python scraper.py` in your terminal.
+4. Run the script by executing the command `python pisa_uni.py` in your terminal.
 
 ## Dependencies <a name="dependencies"></a>
 
