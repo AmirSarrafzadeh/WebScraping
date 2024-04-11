@@ -20,8 +20,17 @@ This repository contains a collection of Python scripts for versatile web scrapi
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmirSarrafzadeh/WebScraping.git
+
+2. Go to the directory:
+   ```bash
+   cd web-scraping
    
-```bash
-cd web-scraping
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the script
+
+
 
 
