@@ -23,7 +23,7 @@ This repository contains a collection of Python scripts for versatile web scrapi
 
 2. Go to the directory:
    ```bash
-   cd web-scraping
+   cd Webscraping
    
 3. Install required dependencies:
    ```bash
